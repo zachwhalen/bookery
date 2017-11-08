@@ -1,0 +1,13 @@
+{
+	"o":["o","oo","u","ou","ie","ee","ea","ue"],
+	"n":["?",".","!","!!",".","."],
+	"B":["B","Bl","Br","B","Cr","Cl","Ch","D","Dr","F","Fr","Fl","G","Gr","Gl","K","Kr","L","M","Mn","N","O","P","Pr","Ph","Pl","Qu","R","S","Sh","Sl","St","T","Th","Th","Tr","U","V","W","X","Y","Z"],
+	"b":["b","bl","br","c","cr","cl","ch","d","dr","f","fr","fl","g","gr","gl","k","kr","l","m","mn","n","o","p","pr","ph","pl","qu","r","s","sh","sl","st","t","th","th","tr","u","v","w","x","y","z"],
+	"w":["#b##o##b#","#b##o##b#","#b##o##b#","#b##o##b#","#b##o##b##b##o##b#","#b##o##b##b##o##b##b##o##b#"],
+	"s":["#B##o# #w# #w#","#B##o##w# #w# #w#","#B##o# #w# #w# #w# #w# #w#","#B##o##b# #w# #w# #w# #w# #w# #w# #w#","\"#B##o##o#,\" #w# #w#","\"#B##o##o# #w# #w# #w#,\" #w# #w#"],
+	"p":["<p>#i#</p>","<p>#i#</p>",""],
+	"i":["#s##n# #s##n# #s##n#","#s##n# #s##n# #s##n#","#s##n# #s##n# #s##n#","#s##n# #s##n# #s##n# #s##n# #s##n# #s##n# #s##n# #s##n# ","#s##n# #s##n# #s##n# #s##n# #s##n# #s##n# #s##n# #s##n# ","#s##n# #s##n# #s##n# #s##n# #s##n# #s##n# #s##n# #s##n# ","#s##n# #s##n# #s##n# #s##n# #s##n# #s##n# #s##n# #s##n# ","#s##n# #s##n# #s##n# #s##n# #s##n# #s##n# #s##n# #s##n# ","#s##n# #s##n# #s##n# #s##n# #s##n# #s##n# #s##n# #s##n# "],
+	"t":["<h2>#B##o# #w# #w# #w# #w##n#</h2>"],
+	"c":["#t##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p##p#"],
+	"origin" : ["#c##c##c##c##c##c##c##c##c##c##c##c##c##c##c##c##c##c##c##c##c##c##c##c##c##c##c##c##c##c#"]
+}
