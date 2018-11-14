@@ -28,7 +28,7 @@
 	}
 	document.addEventListener('DOMContentLoaded', function() {
 		if(typeof GRAMMAR === 'undefined') {
-			fetch("story.json")
+			fetch("story.json") // see https://stackoverflow.com/a/42272155
 				.then(response => response.json())
 				.then(json => loadTracery(json));
 		} else if(typeof GRAMMAR === 'object') {
