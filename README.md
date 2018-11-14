@@ -6,7 +6,7 @@ Unlike other Tracery templates, this one generates one result at a time and empl
 
 To use:
 
- - fork or download the repository
+ - clone or download the repository
  - edit the story.json file 
  - view hydra.html in a web browser to see if it worked
 
